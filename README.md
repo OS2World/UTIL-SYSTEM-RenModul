@@ -5,7 +5,7 @@ Change internal and imported DLL names like DLLRNAME
 
 LICENSE
 ===============
-* Not Specified
+* GNU GPL V2
 
 COMPILE TOOLS
 ===============
